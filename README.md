@@ -39,6 +39,7 @@
 - React-native-firebase (For Firebase components)
 - Dayjs (For formatting dates)
 - React-native-image-picker (For picking images from the device)
+- Lucide-react-native (For Icons)
 
 <hr/>
 
