@@ -8,10 +8,10 @@ const users = 'users';
 
 const firebasePaths = {
   // All firebase collection and doc paths
-  getComments: <T>(uid: T, postKey: T): string =>
+  getComments: <T>(uid: T, postKey: T) =>
     `users/${uid}/posts/${postKey}/comments`,
-  postDoc: <T>(uid: T, postKey: T): string => `users/${uid}/posts/${postKey}`,
-  sendComment: <T>(uid: T, postKey: T, commentKey: T): string =>
+  postDoc: <T>(uid: T, postKey: T) => `users/${uid}/posts/${postKey}`,
+  sendComment: <T>(uid: T, postKey: T, commentKey: T) =>
     `users/${uid}/posts/${postKey}/comments/${commentKey}`,
 } as const;
 
