@@ -13,7 +13,7 @@ const firebasePaths = {
   postDoc: <T>(uid: T, postKey: T): string => `users/${uid}/posts/${postKey}`,
   sendComment: <T>(uid: T, postKey: T, commentKey: T): string =>
     `users/${uid}/posts/${postKey}/comments/${commentKey}`,
-};
+} as const;
 
 interface PostDocType {
   uid: string;
