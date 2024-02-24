@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56120775903",
+    "project_id": "id3-app-case",
+    "storage_bucket": "id3-app-case.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56120775903:android:f9b8f4b6df735b03fc056a",
+        "android_client_info": {
+          "package_name": "com.appcase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKyl7NmyXGGzilTisTo7FnZ4g_ZvTMjso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
