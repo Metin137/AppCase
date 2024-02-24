@@ -2,6 +2,14 @@
 
 ### ScreenShoots
 
+![alt text](https://github.com/Metin137/AppCase/blob/main/src/assets/screenShoots/loginScreenSS.png?raw=true)
+
+1. <span style="color: #82ffc1">You can type email in this input</span >
+2. <span style="color: #ff8282">You can type password in this input</span >
+3. <span style="color: #82a1c1">You can login by pressing this button</span >
+
+<hr/>
+
 ![alt text](https://github.com/Metin137/AppCase/blob/main/src/assets/screenShoots/homeScreen.png?raw=true)
 
 1. <span style="color: #bac4e2">You can logout by pressing this icon</span >
@@ -18,14 +26,6 @@
 
 1. <span style="color: #ffc1a1">You can type comment in this input</span >
 2. <span style="color: #82ffc1">You can send comment by pressing this icon</span >
-
-<hr/>
-
-![alt text](https://github.com/Metin137/AppCase/blob/main/src/assets/screenShoots/loginScreenSS.png?raw=true)
-
-1. <span style="color: #82ffc1">You can type email in this input</span >
-2. <span style="color: #ff8282">You can type password in this input</span >
-3. <span style="color: #82a1c1">You can login by pressing this button</span >
 
 <hr/>
 
