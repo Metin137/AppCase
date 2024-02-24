@@ -33,7 +33,7 @@
 
 - React Navigation (For navigation)
 - Redux Toolkit (For state management, I opted for the toolkit version because their documentation recommends it; the other version is no longer supported.)
-- Gluestack UI (For UI components, I chosed this instead of Native Base because their documentation recommends it, the Native Base is no longer supported.)
+- Gluestack UI (For UI components, I chose this instead of Native Base because their documentation recommends it, the Native Base is no longer supported.)
 - React-hook-form (For Forms)
 - Yup (For validation rules)
 - React-native-firebase (For Firebase components)
