@@ -138,7 +138,7 @@ const deletePost = async ({uid, postKey}: PostDocType) => {
 
 const deletePostImage = async ({fileRef}: DeletePostImageType) => {
   let imageRef = storage().ref(fileRef);
-  return imageRef.delete();
+  return await imageRef.delete();
 };
 
 const uploadPostImage = async ({fileRef, file}: UploadPostImageType) => {
